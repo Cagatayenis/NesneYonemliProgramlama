@@ -1,0 +1,20 @@
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\Developer\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojAssemblyReference.cache
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.cache
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\ÇağatayEnis\Desktop\C# Dersleri\KursÖrnekler\2-OOP\Kurs_Örnekleri\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
